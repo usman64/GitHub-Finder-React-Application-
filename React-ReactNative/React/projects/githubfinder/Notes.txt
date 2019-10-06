@@ -1,0 +1,8 @@
+env local variables
+prop drilling
+React Router Link maintains state
+
+
+Re-iterate:
+    prop Types
+    font awesome icons
