@@ -2,6 +2,20 @@ env local variables
 prop drilling
 React Router Link maintains state
 
+hooks:
+    useState
+    useEffect (constantly runs in a loop, hence, enter a condition i.e once=> {}, [repos] if repos change then run again)
+Context:
+    state,context,reducer
+    remove proptypes when a prop is no longer provided due to context
+deploy on Netlify:
+    sudo npm i -g netlify-cli
+    netlify init
+    make netlify.toml
+    add ENV variables on server
+    netlify deploy --prod 
+for buying domians:
+    namecheap
 
 Re-iterate:
     prop Types
